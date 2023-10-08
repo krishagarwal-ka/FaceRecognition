@@ -11,7 +11,7 @@ https://github.com/krishagarwal-ka/FaceRecognition
 
 [4]  Run 'Face Identification.py'
       •  This is essentially the main program
-      •  Every time you are seen in the webcam, your name should appear in 'database.csv' along with the exact date and time
+      •  Every time you are seen in the webcam, your name appears in 'database.csv' along with the exact date and time
       •  You will also see a snapshot from the webcam feed each time your face is detcted
 
 [5]  Repeat step [3] each time you wish to add a new face
