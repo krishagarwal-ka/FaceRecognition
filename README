@@ -9,20 +9,20 @@ https://github.com/krishagarwal-ka/FaceRecognition
       •  Download https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/shape_predictor_68_face_landmarks.dat
       •  Download https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat
 
-[3]   Run 'Add New Face.py'
+[4]   Run 'Add New Face.py'
       •  Position yourself suitable in front of your webcam
       •  Enter your name when prompted and hit enter
 
-[4]   Run 'Face Identification.py'
+[5]   Run 'Face Identification.py'
       •  This is essentially the main program
       •  Every time you are seen in the webcam, your name appears in 'database.csv' along with the exact date and time
       •  You will also see a snapshot from the webcam feed each time your face is detcted
 
-[5]   Repeat step [3] each time you wish to add a new face
+[6]   Repeat step [3] each time you wish to add a new face
 
-[6]   Run 'Reset Database.py' if you wish to clear all entries stored in 'database.csv'
+[7]   Run 'Reset Database.py' if you wish to clear all entries stored in 'database.csv'
 
-[7]   IMPORTANT NOTE: Do not delete any of the program files as they are required by the program to function properly
+[8]   IMPORTANT NOTE: Do not delete any of the program files as they are required by the program to function properly
 
 
 Author : Krish Agarwal
