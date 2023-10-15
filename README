@@ -6,8 +6,8 @@ https://github.com/krishagarwal-ka/FaceRecognition
 [2]   Run 'pip install dlib opencv-python numpy pickle datetime time'
 
 [3]   Download the models
-      •  Download https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/shape_predictor_68_face_landmarks.dat
-      •  Download https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat
+      •  Download and extract http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2
+      •  Download and extract http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 [4]   Run 'Add New Face.py'
       •  Position yourself suitable in front of your webcam
