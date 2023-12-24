@@ -1,7 +1,4 @@
-streamlit
 dlib
-cv2
+opencv-python
 numpy
-pickle
 datetime
-time
