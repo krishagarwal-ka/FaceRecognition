@@ -1,7 +1,6 @@
 # FaceRecognition
 https://github.com/krishagarwal-ka/FaceRecognition
 
-
 [1]   Download all files
 
 [2]   Run 'pip install dlib opencv-python numpy pickle datetime time'
