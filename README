@@ -1,6 +1,7 @@
 # FaceRecognition
 https://github.com/krishagarwal-ka/FaceRecognition
 
+
 [1]   Download all files
 
 [2]   Run 'pip install dlib opencv-python numpy pickle datetime time'
@@ -22,10 +23,9 @@ https://github.com/krishagarwal-ka/FaceRecognition
 
 [7]   Run 'Reset Database.py' if you wish to clear all entries stored in 'database.csv'
 
-[8]   IMPORTANT NOTE: Do not delete any of the program files as they are required by the program to function properly
 
+IMPORTANT NOTE: Do not delete any of the program files as they are required by the program to function properly
 
 Author : Krish Agarwal
 https://github.com/krishagarwal-ka
 October 2023
-
