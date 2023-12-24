@@ -18,7 +18,7 @@ https://github.com/krishagarwal-ka/FaceRecognition
       •  Every time you are seen in the webcam, your name appears in 'database.csv' along with the exact date and time
       •  You will also see a snapshot from the webcam feed each time your face is detcted
 
-[6]   Repeat step [3] each time you wish to add a new face
+[6]   Repeat step [4] each time you wish to add a new face
 
 [7]   Run 'Reset Database.py' if you wish to clear all entries stored in 'database.csv'
 
