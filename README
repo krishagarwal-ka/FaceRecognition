@@ -3,7 +3,7 @@ https://github.com/krishagarwal-ka/FaceRecognition
 
 [1]   Download all files
 
-[2]   Run 'pip install dlib opencv-python numpy pickle datetime time'
+[2]   Run 'pip install dlib opencv-python numpy datetime'
 
 [3]   Download the models
       •  Download and extract http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2
